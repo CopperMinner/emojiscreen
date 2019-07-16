@@ -167,5 +167,17 @@
     ],
     "type": "movie",
     "year": 1989
-  }
+  },
+      "drama"
+ {
+    "title": "Speed Racer",
+    "emojiImgs": "🏎️🚗🏁🚥",
+    "genres": [
+      "action",
+      "adventure",
+      "comedy"
+    ],
+    "type": "movie",
+    "year": 2008
+  },
 ]
